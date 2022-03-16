@@ -4,11 +4,11 @@ namespace CSharp.Crud.Interfaces
 {
     public interface IRepositorio<T>
     {
-         List<T> Listar();
-         T RetornaPorId(int id);
-        void Inserir(T entidade);
-        void Excluir(int id);
+        List<T> Listar();
+        T RetornarPorId(int id);        
+        void Inserir(T entidade);        
+        void Excluir(int id);        
         void Atualizar(int id, T entidade);
-        int ProxId();
+        int ProximoId();
     }
 }

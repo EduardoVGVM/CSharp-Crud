@@ -3,3 +3,13 @@ C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.
 C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.AssemblyInfoInputs.cache
 C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.AssemblyInfo.cs
 C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.csproj.CoreCompileInputs.cache
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\bin\Debug\net6.0\CSharp.Crud.exe
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\bin\Debug\net6.0\CSharp.Crud.deps.json
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\bin\Debug\net6.0\CSharp.Crud.runtimeconfig.json
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\bin\Debug\net6.0\CSharp.Crud.dll
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\bin\Debug\net6.0\ref\CSharp.Crud.dll
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\bin\Debug\net6.0\CSharp.Crud.pdb
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.dll
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\ref\CSharp.Crud.dll
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.pdb
+C:\Users\duduv\Documents\Trabalhos\DIO\CSharp.Crud\obj\Debug\net6.0\CSharp.Crud.genruntimeconfig.cache

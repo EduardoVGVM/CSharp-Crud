@@ -1,7 +1,8 @@
 namespace CSharp.Crud
 {
-    public class EntidadeBase
+    public abstract class EntidadeBase
     {
-        public int id { get; protected set; }
+        public int Id { get; protected set; }
+
     }
 }
